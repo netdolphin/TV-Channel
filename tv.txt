@@ -3609,7 +3609,8 @@ HBO強檔,http://50.7.220.74:8278/hbohead_twn/playlist.m3u8?tid=MCDC666393296663
 美亞電影 HD,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
 美亞電影 HD,http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 美亞電影 HD,http://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
-🎞️电影电视_777,#genre#
+
+🎞️电影电视,#genre#
 影迷纪实台,http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
 影迷数位电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
 影迷數位電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
